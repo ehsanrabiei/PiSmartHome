@@ -32,6 +32,6 @@
 To install this program, download the following ['folder'](link) and run the command in the [.sh] file.
 
 * ## Android
-for android app , download APK file from ['here'](link)  and install it ( its debug build ) 
+for android app , download APK file from ['here'](https://github.com/ehsanrabiei/PiSmartHome/blob/main/Android/APK/SmartHome_debugBuild.apk)  and install it ( its debug build ) 
 
 
