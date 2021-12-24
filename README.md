@@ -1,4 +1,4 @@
->#  <h1 align="center" style="color:red">PiSmartHome</h1>
+>#  <h1 align="center" >PiSmartHome</h1>
 
 
 ## Smart Home using Raspberry pi
@@ -9,8 +9,8 @@
 
 # install and run
 * ## Raspberry pi
-To install this program, download the following folder and run the command in the [.sh] file.
+To install this program, download the following ['folder'](link) and run the command in the [.sh] file.
 
 * ## Android
-for android app , download APK file from 'here' and install it ( its debug build ) 
+for android app , download APK file from ['here'](link)  and install it ( its debug build ) 
 
