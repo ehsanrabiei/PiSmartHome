@@ -1,0 +1,8 @@
+2021/10/02 20:18:47 ; Server Started 
+2021/10/03 02:19:44 ; Server Started 
+2021/10/03 02:19:45 ; Device Turned On
+2021/10/08 16:05:03 ; Device Turned On
+2021/10/10 09:26:21 ; Server Started 
+2021/10/10 09:26:22 ; Device Turned On
+2021/10/29 16:23:05 ; Device Turned On
+2021/10/29 16:23:31 ; Device Turned On
