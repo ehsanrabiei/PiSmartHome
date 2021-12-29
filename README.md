@@ -1,4 +1,3 @@
-> # uploading....
 
 #  <h1 align="center" >PiSmartHome</h1>
 
@@ -29,7 +28,7 @@
     
 # install and run
 * ## Raspberry pi
-To install this program, download the following ['folder'](link) and run the command in the [.sh] file.
+To install this program, download the following ['folder'](https://github.com/ehsanrabiei/PiSmartHome/tree/main/RaspberryPi/bin) and run the command in the [.sh] file.
 
 * ## Android
 for android app , download APK file from ['here'](https://github.com/ehsanrabiei/PiSmartHome/blob/main/Android/APK/SmartHome_debugBuild.apk)  and install it ( its debug build ) 
