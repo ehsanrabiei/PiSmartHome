@@ -63,6 +63,9 @@ To install this program, download the following ['folder'](https://github.com/eh
 
 * ## Android
 for android app , download APK file from ['here'](https://github.com/ehsanrabiei/PiSmartHome/blob/main/Android/APK/SmartHome_debugBuild.apk)  and install it ( its debug build ) 
-
+tere is 3 type of user 
+* * admin  12311 ( no limit )
+* * user1  12322
+* * user2  12345
 
 
