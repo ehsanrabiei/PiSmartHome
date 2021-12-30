@@ -4,7 +4,7 @@
 
 ## Smart Home using Raspberry pi
 
-### controll GPIO pins using java  
+### Controll raspberry pi 3/4 GPIO pins and piCam using java  
 
 >* ## Features
 >   * friendly interface to controll your SmartHome
