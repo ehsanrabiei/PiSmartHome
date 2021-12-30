@@ -4,7 +4,7 @@
 
 ## Smart Home using Raspberry pi
 
-### open source and free program 
+### controll GPIO pins using java  
 
 >* ## Features
 >   * friendly interface to controll your SmartHome
@@ -56,16 +56,23 @@
     * Jdk 1.8
     * netbeans V 8.2 / higher
     * Android Studio 2020.3 / higher
-    
+
 # install and run
 * ## Raspberry pi
 To install this program, download the following ['folder'](https://github.com/ehsanrabiei/PiSmartHome/tree/main/RaspberryPi/bin) and run the command in the [.sh] file.
 
 * ## Android
 for android app , download APK file from ['here'](https://github.com/ehsanrabiei/PiSmartHome/blob/main/Android/APK/SmartHome_debugBuild.apk)  and install it ( its debug build ) 
-tere is 3 type of user 
+<br>there's three types of user
 * * admin  12311 ( no limit )
 * * user1  12322
 * * user2  12345
+
+<hr>
+
+ # libs 
+* ### javaX.mail
+* ### pi4j
+* ### Jrpicam
 
 
