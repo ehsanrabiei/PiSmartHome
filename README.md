@@ -22,15 +22,22 @@
 
 > main interface :
 > 
-![Main interface](https://github.com/ehsanrabiei/PiSmartHome/blob/main/Doc%26Images/mainMenu.JPG)
+<img src="https://github.com/ehsanrabiei/PiSmartHome/blob/main/Doc%26Images/mainMenu.JPG" alt="Main interface" width="450" height="">
 
 > camera View interface :
 > 
-![Main interface](https://github.com/ehsanrabiei/PiSmartHome/blob/main/Doc%26Images/cameraView.JPG)
+<img src="https://github.com/ehsanrabiei/PiSmartHome/blob/main/Doc%26Images/cameraView.JPG" alt="cameraView" width="450" height="">
 
 > about us :
 > 
-![About us](https://github.com/ehsanrabiei/PiSmartHome/blob/main/Doc%26Images/AboutUS.JPG)
+<img src="https://github.com/ehsanrabiei/PiSmartHome/blob/main/Doc%26Images/AboutUS.JPG" alt="About us" width="450" height="">
+
+> Android screenshots :
+>
+<img src="https://github.com/ehsanrabiei/PiSmartHome/blob/main/Doc%26Images/AndroidShot2.jpg" alt="androidShot1" width="300" height="">
+
+<img src="https://github.com/ehsanrabiei/PiSmartHome/blob/main/Doc%26Images/AndroidShot1.jpg" alt="androidShot1" width="300" height="">
+
 
 # Requirements
 * ### hardware
