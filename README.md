@@ -59,6 +59,7 @@
 
 # install and run
 * ## Raspberry pi
+using  ['this file'](https://github.com/ehsanrabiei/PiSmartHome/blob/main/Doc%26Images/GpioPins_guide.xlsx) to connect GPIO pins <br>
 To install this program, download the following ['folder'](https://github.com/ehsanrabiei/PiSmartHome/tree/main/RaspberryPi/bin) and run the command in the [.sh] file.
 
 * ## Android
