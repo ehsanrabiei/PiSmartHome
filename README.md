@@ -1,7 +1,6 @@
 
 #  <h1 align="center" >PiSmartHome</h1>
 
-
 ## Smart Home using Raspberry pi
 
 ### Controll raspberry pi 3/4 GPIO pins and piCam using java  
