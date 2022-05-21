@@ -67,11 +67,14 @@ for android app , download APK file from ['here'](https://github.com/ehsanrabiei
 * * admin  12311 ( no limit )
 * * user1  12322
 * * user2  12345
-<hr><hr>
+<hr>
 
  # libs 
 * ### javaX.mail
 * ### pi4j
 * ### Jrpicam
+<hr>
+ # Licence 
+['Licence Apache 2'](https://www.apache.org/licenses/LICENSE-2.0)
 
-
+<hr>
