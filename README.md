@@ -67,8 +67,7 @@ for android app , download APK file from ['here'](https://github.com/ehsanrabiei
 * * admin  12311 ( no limit )
 * * user1  12322
 * * user2  12345
-
-<hr>
+<hr><hr>
 
  # libs 
 * ### javaX.mail
