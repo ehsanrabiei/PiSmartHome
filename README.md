@@ -74,7 +74,9 @@ for android app , download APK file from ['here'](https://github.com/ehsanrabiei
 * ### pi4j
 * ### Jrpicam
 <hr>
+
  # Licence 
-['Licence Apache 2'](https://www.apache.org/licenses/LICENSE-2.0)
+ 
+* ['Licence Apache 2'](https://www.apache.org/licenses/LICENSE-2.0)
 
 <hr>
